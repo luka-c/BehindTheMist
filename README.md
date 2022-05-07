@@ -2,5 +2,4 @@
 
 Felix Bečeić, Ivan Jurinić, Lovro Srebačić
 
-Na repozitoriju se nalaze izvorni kod projekta (folder Behind The Mist), tehnička dokumentacija, plan rada projekta te video trailer za igru (folder Trailer).
-Također je stvaljena build verzija igrice (folderu Build) koju trebate skinuti kako bi pokrenuli igricu izvan editora. Igrica se pokreće sa BehindTheMist.exe datotekom.
+Na repozitoriju se nalaze  tehnička dokumentacija, plan rada projekta te build verzija igrice (folder Build) koju trebate skinuti kako bi pokrenuli igricu. Igrica se pokreće sa BehindTheMist.exe datotekom.
